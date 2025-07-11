@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapTrackingAPI", "MapTrackingAPI\MapTrackingAPI.csproj", "{3C197320-B340-4E69-BAE2-B18B94387967}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C197320-B340-4E69-BAE2-B18B94387967}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C197320-B340-4E69-BAE2-B18B94387967}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C197320-B340-4E69-BAE2-B18B94387967}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C197320-B340-4E69-BAE2-B18B94387967}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE89B0C9-BD9A-4978-8816-B06093A65168}
+	EndGlobalSection
+EndGlobal

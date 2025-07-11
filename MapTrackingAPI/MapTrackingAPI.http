@@ -1,0 +1,10 @@
+@MapTrackingAPI_HostAddress = https://localhost:7284
+
+GET {{MapTrackingAPI_HostAddress}}/api/device
+
+###
+
+@name=string
+GET {{MapTrackingAPI_HostAddress}}/api/device/locations/Sensor%201
+
+###

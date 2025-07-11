@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Luan\\OneDrive\\Documents\\ThucTap\\MapTracking\\MapTrackingAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C197320-B340-4E69-BAE2-B18B94387967}|MapTrackingAPI\\MapTrackingAPI.csproj|c:\\users\\luan\\onedrive\\documents\\thuctap\\maptracking\\maptrackingapi\\maptrackingapi\\controllers\\devicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C197320-B340-4E69-BAE2-B18B94387967}|MapTrackingAPI\\MapTrackingAPI.csproj|solutionrelative:maptrackingapi\\controllers\\devicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C197320-B340-4E69-BAE2-B18B94387967}|MapTrackingAPI\\MapTrackingAPI.csproj|c:\\users\\luan\\onedrive\\documents\\thuctap\\maptracking\\maptrackingapi\\maptrackingapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C197320-B340-4E69-BAE2-B18B94387967}|MapTrackingAPI\\MapTrackingAPI.csproj|solutionrelative:maptrackingapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C197320-B340-4E69-BAE2-B18B94387967}|MapTrackingAPI\\MapTrackingAPI.csproj|c:\\users\\luan\\onedrive\\documents\\thuctap\\maptracking\\maptrackingapi\\maptrackingapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3C197320-B340-4E69-BAE2-B18B94387967}|MapTrackingAPI\\MapTrackingAPI.csproj|solutionrelative:maptrackingapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C197320-B340-4E69-BAE2-B18B94387967}|MapTrackingAPI\\MapTrackingAPI.csproj|c:\\users\\luan\\onedrive\\documents\\thuctap\\maptracking\\maptrackingapi\\maptrackingapi\\maptrackingapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{3C197320-B340-4E69-BAE2-B18B94387967}|MapTrackingAPI\\MapTrackingAPI.csproj|solutionrelative:maptrackingapi\\maptrackingapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C197320-B340-4E69-BAE2-B18B94387967}|MapTrackingAPI\\MapTrackingAPI.csproj|c:\\users\\luan\\onedrive\\documents\\thuctap\\maptracking\\maptrackingapi\\maptrackingapi\\repositories\\devicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C197320-B340-4E69-BAE2-B18B94387967}|MapTrackingAPI\\MapTrackingAPI.csproj|solutionrelative:maptrackingapi\\repositories\\devicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C197320-B340-4E69-BAE2-B18B94387967}|MapTrackingAPI\\MapTrackingAPI.csproj|c:\\users\\luan\\onedrive\\documents\\thuctap\\maptracking\\maptrackingapi\\maptrackingapi\\services\\deviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C197320-B340-4E69-BAE2-B18B94387967}|MapTrackingAPI\\MapTrackingAPI.csproj|solutionrelative:maptrackingapi\\services\\deviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C197320-B340-4E69-BAE2-B18B94387967}|MapTrackingAPI\\MapTrackingAPI.csproj|c:\\users\\luan\\onedrive\\documents\\thuctap\\maptracking\\maptrackingapi\\maptrackingapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C197320-B340-4E69-BAE2-B18B94387967}|MapTrackingAPI\\MapTrackingAPI.csproj|solutionrelative:maptrackingapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C197320-B340-4E69-BAE2-B18B94387967}|MapTrackingAPI\\MapTrackingAPI.csproj|c:\\users\\luan\\onedrive\\documents\\thuctap\\maptracking\\maptrackingapi\\maptrackingapi\\maptrackingapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3C197320-B340-4E69-BAE2-B18B94387967}|MapTrackingAPI\\MapTrackingAPI.csproj|solutionrelative:maptrackingapi\\maptrackingapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C197320-B340-4E69-BAE2-B18B94387967}|MapTrackingAPI\\MapTrackingAPI.csproj|c:\\users\\luan\\onedrive\\documents\\thuctap\\maptracking\\maptrackingapi\\maptrackingapi\\dtos\\devicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C197320-B340-4E69-BAE2-B18B94387967}|MapTrackingAPI\\MapTrackingAPI.csproj|solutionrelative:maptrackingapi\\dtos\\devicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C197320-B340-4E69-BAE2-B18B94387967}|MapTrackingAPI\\MapTrackingAPI.csproj|c:\\users\\luan\\onedrive\\documents\\thuctap\\maptracking\\maptrackingapi\\maptrackingapi\\models\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C197320-B340-4E69-BAE2-B18B94387967}|MapTrackingAPI\\MapTrackingAPI.csproj|solutionrelative:maptrackingapi\\models\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MapTrackingAPI.http",
+              "DocumentMoniker": "C:\\Users\\Luan\\OneDrive\\Documents\\ThucTap\\MapTracking\\MapTrackingAPI\\MapTrackingAPI\\MapTrackingAPI.http",
+              "RelativeDocumentMoniker": "MapTrackingAPI\\MapTrackingAPI.http",
+              "ToolTip": "C:\\Users\\Luan\\OneDrive\\Documents\\ThucTap\\MapTracking\\MapTrackingAPI\\MapTrackingAPI\\MapTrackingAPI.http",
+              "RelativeToolTip": "MapTrackingAPI\\MapTrackingAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-07-09T03:54:24.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Luan\\OneDrive\\Documents\\ThucTap\\MapTracking\\MapTrackingAPI\\MapTrackingAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "MapTrackingAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Luan\\OneDrive\\Documents\\ThucTap\\MapTracking\\MapTrackingAPI\\MapTrackingAPI\\appsettings.json",
+              "RelativeToolTip": "MapTrackingAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-09T03:49:47.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DeviceController.cs",
+              "DocumentMoniker": "C:\\Users\\Luan\\OneDrive\\Documents\\ThucTap\\MapTracking\\MapTrackingAPI\\MapTrackingAPI\\Controllers\\DeviceController.cs",
+              "RelativeDocumentMoniker": "MapTrackingAPI\\Controllers\\DeviceController.cs",
+              "ToolTip": "C:\\Users\\Luan\\OneDrive\\Documents\\ThucTap\\MapTracking\\MapTrackingAPI\\MapTrackingAPI\\Controllers\\DeviceController.cs",
+              "RelativeToolTip": "MapTrackingAPI\\Controllers\\DeviceController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwBgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T03:44:00.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DeviceService.cs",
+              "DocumentMoniker": "C:\\Users\\Luan\\OneDrive\\Documents\\ThucTap\\MapTracking\\MapTrackingAPI\\MapTrackingAPI\\Services\\DeviceService.cs",
+              "RelativeDocumentMoniker": "MapTrackingAPI\\Services\\DeviceService.cs",
+              "ToolTip": "C:\\Users\\Luan\\OneDrive\\Documents\\ThucTap\\MapTracking\\MapTrackingAPI\\MapTrackingAPI\\Services\\DeviceService.cs",
+              "RelativeToolTip": "MapTrackingAPI\\Services\\DeviceService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA1wBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T03:42:39.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DeviceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Luan\\OneDrive\\Documents\\ThucTap\\MapTracking\\MapTrackingAPI\\MapTrackingAPI\\Repositories\\DeviceRepository.cs",
+              "RelativeDocumentMoniker": "MapTrackingAPI\\Repositories\\DeviceRepository.cs",
+              "ToolTip": "C:\\Users\\Luan\\OneDrive\\Documents\\ThucTap\\MapTracking\\MapTrackingAPI\\MapTrackingAPI\\Repositories\\DeviceRepository.cs",
+              "RelativeToolTip": "MapTrackingAPI\\Repositories\\DeviceRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA7wAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T03:40:54.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Luan\\OneDrive\\Documents\\ThucTap\\MapTracking\\MapTrackingAPI\\MapTrackingAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "MapTrackingAPI\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Luan\\OneDrive\\Documents\\ThucTap\\MapTracking\\MapTrackingAPI\\MapTrackingAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "MapTrackingAPI\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T03:37:43.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MapTrackingAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\Luan\\OneDrive\\Documents\\ThucTap\\MapTracking\\MapTrackingAPI\\MapTrackingAPI\\MapTrackingAPI.csproj",
+              "RelativeDocumentMoniker": "MapTrackingAPI\\MapTrackingAPI.csproj",
+              "ToolTip": "C:\\Users\\Luan\\OneDrive\\Documents\\ThucTap\\MapTracking\\MapTrackingAPI\\MapTrackingAPI\\MapTrackingAPI.csproj",
+              "RelativeToolTip": "MapTrackingAPI\\MapTrackingAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-09T03:36:59.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DeviceDto.cs",
+              "DocumentMoniker": "C:\\Users\\Luan\\OneDrive\\Documents\\ThucTap\\MapTracking\\MapTrackingAPI\\MapTrackingAPI\\DTOs\\DeviceDto.cs",
+              "RelativeDocumentMoniker": "MapTrackingAPI\\DTOs\\DeviceDto.cs",
+              "ToolTip": "C:\\Users\\Luan\\OneDrive\\Documents\\ThucTap\\MapTracking\\MapTrackingAPI\\MapTrackingAPI\\DTOs\\DeviceDto.cs",
+              "RelativeToolTip": "MapTrackingAPI\\DTOs\\DeviceDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T03:36:05.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Device.cs",
+              "DocumentMoniker": "C:\\Users\\Luan\\OneDrive\\Documents\\ThucTap\\MapTracking\\MapTrackingAPI\\MapTrackingAPI\\Models\\Device.cs",
+              "RelativeDocumentMoniker": "MapTrackingAPI\\Models\\Device.cs",
+              "ToolTip": "C:\\Users\\Luan\\OneDrive\\Documents\\ThucTap\\MapTracking\\MapTrackingAPI\\MapTrackingAPI\\Models\\Device.cs",
+              "RelativeToolTip": "MapTrackingAPI\\Models\\Device.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T03:34:34.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Luan\\OneDrive\\Documents\\ThucTap\\MapTracking\\MapTrackingAPI\\MapTrackingAPI\\Program.cs",
+              "RelativeDocumentMoniker": "MapTrackingAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Luan\\OneDrive\\Documents\\ThucTap\\MapTracking\\MapTrackingAPI\\MapTrackingAPI\\Program.cs",
+              "RelativeToolTip": "MapTrackingAPI\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T12:00:38.188Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
