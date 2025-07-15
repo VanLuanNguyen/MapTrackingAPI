@@ -83,3 +83,4 @@ C:\Users\Luan\OneDrive\Documents\ThucTap\MapTracking\MapTrackingAPI\MapTrackingA
 C:\Users\Luan\OneDrive\Documents\ThucTap\MapTracking\MapTrackingAPI\MapTrackingAPI\obj\Debug\net9.0\MapTrackingAPI.pdb
 C:\Users\Luan\OneDrive\Documents\ThucTap\MapTracking\MapTrackingAPI\MapTrackingAPI\obj\Debug\net9.0\MapTrackingAPI.genruntimeconfig.cache
 C:\Users\Luan\OneDrive\Documents\ThucTap\MapTracking\MapTrackingAPI\MapTrackingAPI\obj\Debug\net9.0\ref\MapTrackingAPI.dll
+C:\Users\Luan\OneDrive\Documents\ThucTap\MapTracking\MapTrackingAPI\MapTrackingAPI\obj\Debug\net9.0\MapTrackingAPI.sourcelink.json

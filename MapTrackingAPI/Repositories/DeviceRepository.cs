@@ -25,5 +25,12 @@ namespace MapTrackingAPI.Repositories
                 .OrderBy(d => d.AccessedAt)
                 .ToListAsync();
         }
+
+        public async Task<Device> AddDeviceAsync(Device device)
+        {
+            _context.Devices.Add(device);
+            await _context.SaveChangesAsync();
+            return device;
+        }
     }
 }

@@ -1,4 +1,5 @@
 ﻿using MapTrackingAPI.DTOs;
+using MapTrackingAPI.Models;
 using MapTrackingAPI.Repositories;
 
 namespace MapTrackingAPI.Services
@@ -34,6 +35,25 @@ namespace MapTrackingAPI.Services
                 Longitude = d.Longitude,
                 AccessedAt = d.AccessedAt
             }).ToList();
+        }
+
+        public async Task<DeviceDto> AddDeviceAsync(DeviceDto dto)
+        {
+            var device = new Device
+            {
+                Name = dto.Name,
+                Latitude = dto.Latitude,
+                Longitude = dto.Longitude,
+                AccessedAt = DateTime.Now
+            };
+            var result = await _repo.AddDeviceAsync(device);
+            return new DeviceDto
+            {
+                Name = result.Name,
+                Latitude = result.Latitude,
+                Longitude = result.Longitude,
+                AccessedAt = result.AccessedAt
+            };
         }
     }
 }

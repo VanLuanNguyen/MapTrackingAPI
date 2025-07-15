@@ -11,6 +11,22 @@
   },
   {
     "ContainingType": "MapTrackingAPI.Controllers.DeviceController",
+    "Method": "AddDevice",
+    "RelativePath": "api/Device",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "MapTrackingAPI.DTOs.DeviceDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MapTrackingAPI.Controllers.DeviceController",
     "Method": "GetDeviceLocationsByName",
     "RelativePath": "api/Device/locations/{name}",
     "HttpMethod": "GET",

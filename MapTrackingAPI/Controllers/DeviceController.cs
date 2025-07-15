@@ -1,4 +1,5 @@
-﻿using MapTrackingAPI.Services;
+﻿using MapTrackingAPI.DTOs;
+using MapTrackingAPI.Services;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -27,6 +28,14 @@ namespace MapTrackingAPI.Controllers
         {
             var locations = await _service.GetDeviceLocationsByNameAsync(name);
             return Ok(locations);
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> AddDevice([FromBody] DeviceDto dto)
+        {
+            if (dto == null) return BadRequest();
+            var result = await _service.AddDeviceAsync(dto);
+            return CreatedAtAction(nameof(GetDevices), new { name = result.Name }, result);
         }
     }
 }
